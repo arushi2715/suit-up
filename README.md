@@ -65,7 +65,7 @@ https://buy-your-clothes-live.herokuapp.com/
 3. Open the folder in which you cloned the repositry.
 4. Run (`npm install`).
 5. Run (`npm start`).
-6. This which start your project locally.
+6. This will start your project locally.
 
 # Acknowledgments
 
