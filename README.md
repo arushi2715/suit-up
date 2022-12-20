@@ -1,6 +1,6 @@
 <div align="center">
 
-# Buy-Your-Clothes.com
+# Suit-Up!
 
 </div>
 
